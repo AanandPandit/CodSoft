@@ -1,0 +1,37 @@
+You: Hi
+Chatbot: Hey, how can I make your day better?
+You: hello
+Chatbot: Hey, what can I do for you?
+You: joke
+Chatbot: Why did the scarecrow win an award? Because he was outstanding in his field!
+You: one more joke
+Chatbot: I used to play piano by ear, but now I use my hands.
+You: what are the available books
+Chatbot: To Kill a Mockingbird by Harper Lee
+1984 by George Orwell
+The Great Gatsby by F. Scott Fitzgerald
+Pride and Prejudice by Jane Austen
+The Catcher in the Rye by J.D. Salinger
+The Lord of the Rings by J.R.R. Tolkien
+The Hobbit by J.R.R. Tolkien
+Harry Potter and the Sorcerer's Stone by J.K. Rowling
+The Da Vinci Code by Dan Brown
+The Hunger Games by Suzanne Collins
+You: where can i get books
+Chatbot: I didn't get that, Could you please rephrase that?
+You: where i find book
+Chatbot: You can check book at second floor of the library.
+You: can i extend time
+Chatbot: No you can't do that, you have to retake it.
+You: do you have online library
+Chatbot: Yes you can check in our website or you can scan the QR and it will take you to website.
+You: thanks
+Chatbot: Its my pleasure to help, Visit again.
+You: thank you
+Chatbot: Its my pleasure to help, Visit again.
+You: tell me joke
+Chatbot: I used to play piano by ear, but now I use my hands.
+You: haha
+Chatbot: I didn't get that, Could you please rephrase that?
+You: thanks
+Chatbot: Its my pleasure to help, Visit again.
