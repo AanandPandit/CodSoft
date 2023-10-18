@@ -15,6 +15,6 @@ Key Highlights:
 
 📈 Results: Achieved measurable improvements in customer support and user engagement.
 
-🌐 Github project link: 
+🌐 GitHub project link: https://github.com/AanandPandit/CodSoft/tree/main/01_Chatbot
 📧 Email : aanandpandit0001@gmail.com
 🔧 CodSoft student ID:CS07WX100191
